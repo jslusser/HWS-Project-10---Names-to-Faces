@@ -12,6 +12,7 @@
 		94C5ABAF1EE3F5B7007CF2D2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 94C5ABAD1EE3F5B7007CF2D2 /* Main.storyboard */; };
 		94C5ABB11EE3F5B7007CF2D2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 94C5ABB01EE3F5B7007CF2D2 /* Assets.xcassets */; };
 		94C5ABB41EE3F5B7007CF2D2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 94C5ABB21EE3F5B7007CF2D2 /* LaunchScreen.storyboard */; };
+		94C5ABBC1EE3F8AB007CF2D2 /* PersonCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94C5ABBB1EE3F8AB007CF2D2 /* PersonCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		94C5ABB01EE3F5B7007CF2D2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		94C5ABB31EE3F5B7007CF2D2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		94C5ABB51EE3F5B7007CF2D2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		94C5ABBB1EE3F8AB007CF2D2 /* PersonCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PersonCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				94C5ABA91EE3F5B7007CF2D2 /* AppDelegate.swift */,
 				94C5ABAB1EE3F5B7007CF2D2 /* ViewController.swift */,
 				94C5ABAD1EE3F5B7007CF2D2 /* Main.storyboard */,
+				94C5ABBB1EE3F8AB007CF2D2 /* PersonCell.swift */,
 				94C5ABB01EE3F5B7007CF2D2 /* Assets.xcassets */,
 				94C5ABB21EE3F5B7007CF2D2 /* LaunchScreen.storyboard */,
 				94C5ABB51EE3F5B7007CF2D2 /* Info.plist */,
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				94C5ABBC1EE3F8AB007CF2D2 /* PersonCell.swift in Sources */,
 				94C5ABAC1EE3F5B7007CF2D2 /* ViewController.swift in Sources */,
 				94C5ABAA1EE3F5B7007CF2D2 /* AppDelegate.swift in Sources */,
 			);
@@ -304,6 +308,7 @@
 				94C5ABBA1EE3F5B7007CF2D2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
