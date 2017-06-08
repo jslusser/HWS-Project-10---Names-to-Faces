@@ -1,10 +1,10 @@
 //
 //  AppDelegate.swift
-//  Project10
+//  Project10 + 12
 //
 //  Created by James Slusser on 6/4/17.
 //  Copyright © 2017 James Slusser. All rights reserved.
-//  https://www.hackingwithswift.com/read/10/overview
+//  https://www.hackingwithswift.com/read/12/overview
 //
 
 import UIKit
